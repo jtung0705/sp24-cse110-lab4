@@ -51,4 +51,5 @@
 
 15. The other one is a true equality, as in same type and everything
 
-18. [2,4,6]![alt text](image.png)
+17. [2,4,6]
+18. 
