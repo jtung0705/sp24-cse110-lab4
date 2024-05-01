@@ -36,7 +36,7 @@
 13g. '3undefined' , undefined is a string
 
 13h. NaN , no data is available in there 
-==========================================
+----------------------------
 14a. True, the 2 is converted to a int
 
 14b. false, the 1 comes before 2 as a string
