@@ -12,4 +12,11 @@
 <!-- Picture then question -->
 
 12a. student.name
+
 12b. Student['grad year']
+
+12c. student.greeting()
+
+12d. student["Favorite Teacher"].name
+
+12e. student.courseLoad[0]
