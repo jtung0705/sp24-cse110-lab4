@@ -49,7 +49,7 @@
 
 14f. true, boolean(parameter) only cares if its not zero
 
-15 . The === is a true equality, as in same type and everything
+15 . The === is a true equality, as in same type and everything but == is more loose
 
 
  17 . [2,4,6]
