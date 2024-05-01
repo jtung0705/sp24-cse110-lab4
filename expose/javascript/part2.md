@@ -20,3 +20,35 @@
 12d. student["Favorite Teacher"].name
 
 12e. student.courseLoad[0]
+
+13a. '32', converted it to a string
+
+13b. 1, converted the 3 to a int
+
+13c. 3, nothing is added
+
+13d. "3null" , the null is a string
+
+13e. 4 , true is a 1 inside since its boolean
+
+13f. 0, nothing + false (which is a 0) is 0
+
+13g. '3undefined' , undefined is a string
+
+13h. NaN , no data is available in there 
+==========================================
+14a. True, the 2 is converted to a int
+
+14b. false, the 1 comes before 2 as a string
+
+14c. true, Both are converted to same numerical value
+
+14d. false, different types
+
+14e. false, different types
+
+14f. true, boolean(parameter) only cares if its not zero
+
+15. The other one is a true equality, as in same type and everything
+
+18. [2,4,6]
